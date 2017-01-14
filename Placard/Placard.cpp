@@ -4,6 +4,8 @@
 #include "stdafx.h"
 
 
+
+
 int main()
 {
 	printf("Oie");
