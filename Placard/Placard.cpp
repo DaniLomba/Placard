@@ -6,6 +6,7 @@
 
 int main()
 {
-    return 0;
+	printf("Oie");
+		return 0;
 }
 
